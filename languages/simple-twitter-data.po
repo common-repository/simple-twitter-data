@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Artiss Twitter Data\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-31 15:37-0000\n"
+"PO-Revision-Date: 2012-10-31 15:37-0000\n"
+"Last-Translator: David Artiss <david.artiss@artiss.co.uk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/artiss-plugin-ads.php:46
+#: includes/atd-admin-config.php:26
+msgid "Donate"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:47
+msgid "If you like this plugin and appreciate the effort being put into it, <a href=\"http://www.artiss.co.uk/donate\">please consider donating</a>."
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:48
+msgid "Follow Me"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:49
+msgid "Please stay in touch with the latest news via one of the following social streams..."
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:51
+msgid "Follow Artiss.co.uk on Twitter"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:52
+msgid "Follow Artiss.co.uk on Facebook"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:53
+msgid "Follow Artiss.co.uk on Google+"
+msgstr ""
+
+#: includes/artiss-plugin-ads.php:54
+msgid "Follow Artiss.co.uk on RSS feed"
+msgstr ""
+
+#: includes/atd-admin-config.php:25
+#: includes/atd-admin-config.php:119
+msgid "Support"
+msgstr ""
+
+#: includes/atd-admin-config.php:52
+msgid "Settings"
+msgstr ""
+
+#: includes/atd-admin-config.php:117
+msgid "Help"
+msgstr ""
+
+#: includes/atd-admin-config.php:150
+msgid "This screen allows you to set default options for Artiss Twitter Data."
+msgstr ""
+
+#: includes/atd-admin-config.php:150
+msgid "Simply change the required options and then click the Save Settings button at the bottom of the screen for the new settings to take effect."
+msgstr ""
+
+#: includes/atd-admin-config.php:167
+msgid "For further help:"
+msgstr ""
+
+#: includes/atd-admin-config.php:167
+msgid "Artiss Twitter Data Plugin Documentation"
+msgstr ""
+
+#: includes/atd-admin-config.php:168
+msgid "Artiss Twitter Data Support Forum"
+msgstr ""
+
+#: includes/atd-admin-config.php:169
+msgid "This plugin, and all support, is supplied for free, but <a title=\"Donate\" href=\"http://artiss.co.uk/donate\" target=\"_blank\">donations</a> are always welcome."
+msgstr ""
+
+#: includes/atd-get-twitter-data.php:62
+msgid "No username was specified"
+msgstr ""
+
+#: includes/atd-get-twitter-data.php:67
+msgid "Data request not specified"
+msgstr ""
+
+#: includes/atd-get-twitter-data.php:123
+msgid "Invalid data item"
+msgstr ""
+
+#: includes/atd-get-twitter-data.php:209
+msgid "Twitter user not found"
+msgstr ""
+
+#: includes/atd-get-twitter-data.php:212
+msgid "Rate limit exceeded"
+msgstr ""
+
+#: includes/atd-get-twitter-data.php:215
+msgid "Twitter is currently down"
+msgstr ""
+
+#: includes/atd-get-twitter-data.php:217
+msgid "Error fetching Twitter data"
+msgstr ""
+
+#: includes/atd-options-screen.php:32
+msgid "Settings Saved."
+msgstr ""
+
+#: includes/atd-options-screen.php:48
+msgid "These are the default settings for Artiss Twitter Data."
+msgstr ""
+
+#: includes/atd-options-screen.php:57
+msgid "Remove Adverts"
+msgstr ""
+
+#: includes/atd-options-screen.php:58
+msgid "If you've <a href=\"http://www.artiss.co.uk/donate\">donated</a>, tick here to remove the adverts above"
+msgstr ""
+
+#: includes/atd-options-screen.php:62
+msgid "Default cache"
+msgstr ""
+
+#: includes/atd-options-screen.php:63
+msgid "Time in hours. Set to Off to deactivate caching"
+msgstr ""
+
+#: includes/atd-options-screen.php:67
+msgid "Twitter user"
+msgstr ""
+
+#: includes/atd-options-screen.php:68
+msgid "Default twitter user name"
+msgstr ""
+
+#: includes/atd-options-screen.php:75
+msgid "Save Settings"
+msgstr ""
+
